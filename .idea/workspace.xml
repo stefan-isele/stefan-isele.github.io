@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14abaf2e-7686-4483-9bc4-022147d1353c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-    </list>
+    <list default="true" id="14abaf2e-7686-4483-9bc4-022147d1353c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -43,11 +40,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1889">
               <caret line="70" column="7" lean-forward="false" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jekyll-theme-architect.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_sass/jekyll-theme-architect.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3103">
+              <caret line="271" column="38" lean-forward="false" selection-start-line="271" selection-start-column="38" selection-end-line="271" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -102,6 +109,9 @@
     </leaf>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Architects</find>
+    </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
@@ -116,6 +126,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pages/technical/3rdparty/jekyll/jekyll-basics.md" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_sass/jekyll-theme-architect.scss" />
       </list>
     </option>
   </component>
@@ -237,12 +248,12 @@
       <option name="presentableId" value="Default" />
       <updated>1581232786182</updated>
       <workItem from="1581232787481" duration="1262000" />
-      <workItem from="1581854167325" duration="3335000" />
+      <workItem from="1581854167325" duration="3695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4597000" />
+    <option name="totallyTimeSpent" value="4957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1990" y="34" width="1875" height="2126" extended-state="4" />
@@ -364,6 +375,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1889">
           <caret line="70" column="7" lean-forward="false" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/jekyll-theme-architect.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3103">
+          <caret line="271" column="38" lean-forward="false" selection-start-line="271" selection-start-column="38" selection-end-line="271" selection-end-column="38" />
           <folding />
         </state>
       </provider>
