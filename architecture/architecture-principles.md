@@ -3,9 +3,14 @@ layout: page
 ---
 # Principles
 
-A Tiny Type is a small class that encapsulates a String or primitive in a domain specific class.
+Principles are general guidelines for the development process.
+They should be followed if possible, but must always be balanced against the costs (effort, complexity).
 
-Defining the domain type explicitly provides some advantages :
+#### Example
+Code or information should not be repeated, 
+but sometimes avoiding repetition leads to so much more effort and complexity that repetition must be accepted.  
+
+## The Principles
 * Reveal the intent
 * Separation of concerns
 * Do not repeat yourself (DRY)
@@ -17,5 +22,3 @@ Defining the domain type explicitly provides some advantages :
 * Locality
 * Control the boundaries
 
-* links
-  * [Big benefits from tiny types](https://techbeacon.com/app-dev-testing/big-benefits-tiny-types-how-make-your-codes-domain-concepts-explicit)

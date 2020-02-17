@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14abaf2e-7686-4483-9bc4-022147d1353c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change beforePath="$PROJECT_DIR$/pages/technical/3rdparty/jekyll/jekyll-basics.md" afterPath="$PROJECT_DIR$/development/technical/3rd-party/jekyll/jekyll-basics.md" />
-      <change beforePath="$PROJECT_DIR$/pages/tiny-typesd.md" afterPath="$PROJECT_DIR$/development/tiny-typesd.md" />
+      <change beforePath="$PROJECT_DIR$/architecture/architecture-principles.md" afterPath="$PROJECT_DIR$/architecture/architecture-principles.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,8 +46,8 @@
         <entry file="file://$PROJECT_DIR$/architecture/architecture-principles.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="493">
-                <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+              <first_editor relative-caret-position="667">
+                <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -328,12 +325,12 @@
       <updated>1581232786182</updated>
       <workItem from="1581232787481" duration="1262000" />
       <workItem from="1581854167325" duration="5029000" />
-      <workItem from="1581924578834" duration="8263000" />
+      <workItem from="1581924578834" duration="9093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14554000" />
+    <option name="totallyTimeSpent" value="15384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1990" y="34" width="1885" height="2126" extended-state="4" />
@@ -587,8 +584,8 @@
     <entry file="file://$PROJECT_DIR$/architecture/architecture-principles.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="493">
-            <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <first_editor relative-caret-position="667">
+            <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
