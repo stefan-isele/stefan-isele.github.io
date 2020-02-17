@@ -11,13 +11,14 @@ Code or information should not be repeated,
 but sometimes avoiding repetition leads to so much more effort and complexity that repetition must be accepted.  
 
 ## The Principles
+
 * Reveal the intent
-* Separation of concerns
+* Separate concerns
+* Provide structure
+  * Naming matters
+* Self containment  
 * Do not repeat yourself (DRY)
 * Fail early
-* Structure matters
-* Naming matters
-* Self containment
 * Minimize scope
 * Locality
 * Control the boundaries

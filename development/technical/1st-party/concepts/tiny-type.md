@@ -10,11 +10,11 @@ Defining the domain type explicitly provides some advantages :
 * allows trefactoring
 * provides a place for all methods acting on the type
 * enforces validation
- ** the constructor validates the provided string/primitive    
- ** all instances are implicitly valid    
+   * the constructor validates the provided string/primitive    
+   * all instances are implicitly valid    
 * enforces a canonical presentation
- ** the constructor strictly allows only the canonical presentation
- ** factory methods may be less strict but convert to the canonical presentation 
+   * the constructor strictly allows only the canonical presentation
+   * factory methods may be less strict but convert to the canonical presentation 
  
 
 #### Example : 
