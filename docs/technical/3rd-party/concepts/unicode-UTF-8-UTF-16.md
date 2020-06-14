@@ -1,13 +1,13 @@
-Unicode is a standard that basically defines two things :
+Unicode is a standard, that basically defines two things :
 
-1. a table that maps each character of each language to a hexadecimal number
-these hex numbers are called 'codepoints'
-a codepoint is written as "U+", followed by its hex value
-examples :
+1. A table, that maps each character of each language to a hexadecimal number.
+These hex numbers are called 'codepoints'.
+A codepoint is written as "U+", followed by its hex value.
+#### Examples ####
 * U+0041 is used for the letter 'A'
 * U+005A is used for the letter 'Z'
 
-2. ways to organize these codepoints in byte sequences, to store them in memory or files called 'encodings'.
+2. Ways to organize these codepoints in byte sequences, to store them in memory or files called 'encodings'.
 Examples are UTF-8 or UTF-16
 
 ## Encodings ##

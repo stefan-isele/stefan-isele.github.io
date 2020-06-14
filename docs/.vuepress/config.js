@@ -1,11 +1,11 @@
 module.exports = {
-    title: 'Hello VuePress',
-    description: 'Just playing around',
+    title: 'Stefan Isele',
+    description: 'About building software',
     themeConfig: {
         nav: [
             {text: 'Home', link: '/'},
-            {text: 'Guide', link: '/guide/'},
-            {text: 'External', link: 'https://google.com'}
+            // {text: 'Guide', link: '/guide/'},
+            // {text: 'External', link: 'https://google.com'}
         ],
         sidebar: [
             {
@@ -15,7 +15,6 @@ module.exports = {
             {
                 title: 'Technical',   // required
                 children: [
-                    '/',
                     {
                         title: '1st party (ours)',   // required
                         children: []
@@ -29,12 +28,15 @@ module.exports = {
                         children: [{
                             title: 'Concepts',   // required
                             children: [
-                                ['/technical/3rd-party/concepts/unicode-UTF-8-UTF-16','Unicode, UTF-8, UTF-16']
+                                ['/technical/3rd-party/concepts/unicode-UTF-8-UTF-16', 'Unicode, UTF-8, UTF-16']
                             ]
                         },]
                     },
                 ]
             }
-        ]
+        ],
+        themeConfig: {
+            lastUpdated: 'Last Updated', // string | boolean
+        }
     }
 }
