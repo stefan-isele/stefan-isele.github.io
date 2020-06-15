@@ -2,16 +2,13 @@ module.exports = {
     title: 'Stefan Isele',
     description: 'About building software',
     themeConfig: {
+        lastUpdated: 'Last Updated', // string | boolean
         nav: [
             {text: 'Home', link: '/'},
             // {text: 'Guide', link: '/guide/'},
             // {text: 'External', link: 'https://google.com'}
         ],
         sidebar: [
-            {
-                title: 'Domain',   // required
-                children: ['/']
-            },
             {
                 title: 'Technical',   // required
                 children: [
@@ -33,10 +30,11 @@ module.exports = {
                         },]
                     },
                 ]
-            }
+            },
+            {
+                title: 'Domain',   // required
+                children: ['/']
+            },
         ],
-        themeConfig: {
-            lastUpdated: 'Last Updated', // string | boolean
-        }
     }
 }
