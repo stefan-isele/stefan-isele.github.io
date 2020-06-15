@@ -1,2 +1,13 @@
-# Hello Stefan Isele
-https://www.smashingmagazine.com/2019/08/vuepress-documentation/
+---
+home: true
+
+heroText: Stefan Isele
+tagline: Developer and Software Architect
+actionText: Get Started →
+actionLink: /technical/
+
+footer: Stefan Isele, Köln (Germany)
+---
+
+
+
